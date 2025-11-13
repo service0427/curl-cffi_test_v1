@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+
+# 환경
+.env
+venv/
+.vscode/
+
+# 데이터 (백업하지 않음)
+data/
+logs/
+*.log
+*.json
+
+# Node
+node_modules/
+
+# 기타
+.DS_Store
+*.swp
